@@ -1,0 +1,9 @@
+#更新時間を設定
+#EEE HH:mm:ssの表記
+time: "Mon 00:00:00"
+
+#落としてくるスプレッドシートのURL
+url: ""
+
+#WebhookのURL
+webhook: ""
